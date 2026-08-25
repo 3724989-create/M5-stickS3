@@ -1,0 +1,1 @@
+﻿263: int AnimatedGIF::playFrame(bool bSync, int *delayMilliseconds, void *pUser)

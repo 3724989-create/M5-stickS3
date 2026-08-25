@@ -1,0 +1,13 @@
+#line 1 "D:\\M5stick_proj\\self_workspace\\.vscode\\settings.json"
+{
+    // 防止 Arduino 扩展在编译后自动重新生成 c_cpp_properties.json，
+    // 因为它的生成器无法处理本工具链的 -iwithprefixbefore 包含路径，
+    // 会把 includePath 写残缺，导致 IntelliSense 报 freertos/FreeRTOS.h 找不到。
+    "arduino.disableIntelliSenseAutoGen": true,
+    "files.associations": {
+        "*.ino": "cpp"
+    },
+    "C_Cpp.default.configurationProvider": "",
+    // "C_Cpp.intelliSenseEngineFallback": "disabled",
+    // "C_Cpp.errorSquiggles": "disabled"
+}

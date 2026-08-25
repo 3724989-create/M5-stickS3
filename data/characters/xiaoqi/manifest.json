@@ -1,0 +1,7 @@
+{
+    "name":"xiaoqi",
+    "colors":{"bg":"#000000"},
+    "states":{
+        "idle":"idle_fox.gif"
+    }
+}
